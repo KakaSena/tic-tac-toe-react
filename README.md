@@ -11,10 +11,6 @@ A classic, interactive tic-tac-toe game built with React, Vite, TypeScript, and 
 - **Restart game**: Reset the board to play again quickly.
 - **Responsive design**: Works well on both desktop and mobile devices.
 
-## Gameplay
-![The main game board during play](https://github.com/user-attachments/assets/a6c7e3ff-5cc8-43c3-8752-9285947928c8)
-![he game showing a win state.](https://github.com/user-attachments/assets/94e7852e-3243-46c5-b062-eafd07dd55ea)
-
 ## 🛠️ Technologies Used
 
 - [React](https://reactjs.org/) – Front-end library for building user interfaces.
